@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Computer 
 ---
 
 ## 💻 Things I code with
-<p>
+<p align="center">
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />
   <img alt="NextJS" src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
@@ -27,24 +27,28 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Computer 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
-
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianR8&layout=compact&card_width=250&langs_count=8&hide_border=true&theme=nord&hide=jupyter%20notebook,html,css" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianR8&layout=compact&card_width=250&langs_count=8&hide_border=true&theme=nord&hide=jupyter%20notebook,html,css" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p><a href="https://github.com/CristianR8" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/cristhian-rey/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:cristiancamiloreyrueda@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://github.com/CristianR8" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/cristhian-rey/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:cristiancamiloreyrueda@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## 🏆 Achievements
 
-- **Indra Hackday 2024 - First Place 🏆**: <a href="https://comunicaciones.uis.edu.co/estudiantes-uis-obtienen-el-primer-puesto-en-la-competencia-internacional-hackday-2024-de-indra/"><b>Homepage</b></a>
-- **AMB Geo2Code 2023 - Second Place 🏆**: <a href="https://comunicaciones.uis.edu.co/estudiantes-uis-obtienen-el-primer-puesto-en-la-competencia-internacional-hackday-2024-de-indra/"><b>Homepage</b></a>
+<p align="center">
+- **Indra Hackday 2024 - First Place 🏆**: <a href="https://comunicaciones.uis.edu.co/estudiantes-uis-obtienen-el-primer-puesto-en-la-competencia-internacional-hackday-2024-de-indra/"><b>Homepage</b></a>  
+- **AMB Geo2Code 2023 - Second Place 🏆**: <a href="https://comunicaciones.uis.edu.co/estudiantes-uis-obtienen-el-primer-puesto-en-la-competencia-internacional-hackday-2024-de-indra/"><b>Homepage</b></a>  
 - **Financiera Comultrasan Fedesoft Hackathon 2023 - Second Place 🏆**: <a href="https://www.linkedin.com/posts/fedesoft_hackathon-softictransformandoindustrias-activity-7120839573647052800-UE26/?originalSubdomain=es"><b>Homepage</b></a>
-  
+</p>
 
 </p>
