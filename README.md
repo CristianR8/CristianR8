@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Computer 
 <h3>🏆 Achievements</h3>
 
 - **Indra Hackday 2024 - First Place 🏆**: <a href="https://comunicaciones.uis.edu.co/estudiantes-uis-obtienen-el-primer-puesto-en-la-competencia-internacional-hackday-2024-de-indra/"><b>Homepage</b></a>  
-- **AMB Geo2Code 2023 - Second Place 🏆**: <a href="https://comunicaciones.uis.edu.co/estudiantes-uis-obtienen-el-primer-puesto-en-la-competencia-internacional-hackday-2024-de-indra/"><b>Homepage</b></a>  
+- **AMB Geo2Code 2023 - Second Place 🏆**: <a href="https://comunicaciones.uis.edu.co/estudiantes-de-ingenieria-de-sistemas-uis-ganadores-del-hackathon-metropolitana-organizada-por-el-amb/"><b>Homepage</b></a>  
 - **Financiera Comultrasan Fedesoft Hackathon 2023 - Second Place 🏆**: <a href="https://www.linkedin.com/posts/fedesoft_hackathon-softictransformandoindustrias-activity-7120839573647052800-UE26/?originalSubdomain=es"><b>Homepage</b></a>
 
 
