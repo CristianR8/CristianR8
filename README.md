@@ -1,3 +1,5 @@
+<p align="center">
+
 # Hi, I'm Cristian! 👋
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Computer Vision Enthusiast** with experience in creating innovative solutions for both web applications and image processing challenges. Here you'll find a collection of my projects, ranging from frontend and backend development to computer vision models and AI-driven applications.
@@ -44,3 +46,4 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Computer 
 - **Financiera Comultrasan Fedesoft Hackathon 2023 - Second Place 🏆**: <a href="https://www.linkedin.com/posts/fedesoft_hackathon-softictransformandoindustrias-activity-7120839573647052800-UE26/?originalSubdomain=es"><b>Homepage</b></a>
   
 
+</p>
