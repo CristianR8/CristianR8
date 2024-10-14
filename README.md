@@ -6,7 +6,7 @@
 </p>
 Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Computer Vision Enthusiast** with experience in creating innovative solutions for both web applications and image processing challenges. Here you'll find a collection of my projects, ranging from frontend and backend development to computer vision models and AI-driven applications.
 
-## 💻 Things I code with
+<h3>💻 Things I code with</h3>
 <p align="center">
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" />
   <img alt="NextJS" src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" />
@@ -26,15 +26,13 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Computer 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats
+<h3>📈 GitHub Stats </h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianR8&layout=compact&card_width=250&langs_count=8&hide_border=true&theme=nord&hide=jupyter%20notebook,html,css" />
 </p>
 
----
-
-## 🌐 Connect with Me
+<h3>🌐 Connect with Me</h3>
 
 <p align="center">
   <a href="https://github.com/CristianR8" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -42,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Computer 
   <a href="mailto:cristiancamiloreyrueda@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## 🏆 Achievements
+<h3>🏆 Achievements</h3>
 
 <p align="center">
 - **Indra Hackday 2024 - First Place 🏆**: <a href="https://comunicaciones.uis.edu.co/estudiantes-uis-obtienen-el-primer-puesto-en-la-competencia-internacional-hackday-2024-de-indra/"><b>Homepage</b></a>  
