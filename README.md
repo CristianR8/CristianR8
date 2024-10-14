@@ -2,7 +2,7 @@
 
 # Hi, I'm Cristian! 👋
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CristianR8/CristianR8/refs/heads/main/ed.gif" width="400px" />
+  <img src="https://raw.githubusercontent.com/CristianR8/CristianR8/refs/heads/main/ed.gif" width="450px" />
 </p>
 Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Computer Vision Enthusiast** with experience in creating innovative solutions for both web applications and image processing challenges. Here you'll find a collection of my projects, ranging from frontend and backend development to computer vision models and AI-driven applications.
 
